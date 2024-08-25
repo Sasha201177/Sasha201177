@@ -1,5 +1,5 @@
 Test description
-Two different designs were launched for two different groups: a design with a reduction and a design without a reduction.
+Two different designs were launched for two different groups: a design with a discount  and a design without a discount.
 Control group (Group A): Clients downloaded a live screen with a subscription offer.
 Test group (Group B): Customers could change the screen with a subscription offer, which increases the reduction by 50%. 
 In the mobile window, the customer could click on the screen with a subscription to promote the current premium subscription for the same price of $4.99,
